@@ -2,7 +2,7 @@
 
 This project presents a comprehensive analysis of e-commerce sales data, showcasing the full workflow of a data analyst—from raw data exploration to stakeholder-ready dashboards. Using **SQL**, **Excel**, and **Power BI/Tableau**, the analysis uncovers patterns in customer behavior, product performance, and revenue trends to support strategic decision-making.
 
----
+--
 
 ## 🎯 Objectives
 
