@@ -12,7 +12,7 @@ This project presents a comprehensive analysis of e-commerce sales data, showcas
 - Detect churn signals and retention opportunities  
 - Demonstrate storytelling through data and dashboard design
 
----
+--
 
 ## 🛠 Tools & Technologies
 
@@ -21,7 +21,7 @@ This project presents a comprehensive analysis of e-commerce sales data, showcas
 - **Power BI / Tableau** – Interactive dashboards and visual storytelling  
 - *(Optional)* **Python** – Feature engineering or predictive modeling
 
----
+--
 
 ## 🔍 Key Insights
 
@@ -32,14 +32,14 @@ This project presents a comprehensive analysis of e-commerce sales data, showcas
 - % of overall sales  
 - Churn signals identified through recency and frequency metrics
 
----
+--
 
 ## 📊 Dashboards & Visuals
 
 > Screenshots and interactive dashboards available in the `/PowerBI_dashboard` folder.  
 > Visuals include KPI cards, time-series trends, customer segmentation charts, and category performance breakdowns.
 
----
+--
 
 ## 📁 Repository Structure
 
@@ -49,7 +49,7 @@ This project presents a comprehensive analysis of e-commerce sales data, showcas
 /Insights_summary.md
 
 
----
+--
 
 ## 🚀 How to Use
 
@@ -57,7 +57,7 @@ This project presents a comprehensive analysis of e-commerce sales data, showcas
 2. Review SQL queries for data extraction and transformation logic.  
 3. Use Excel workbook for pivot analysis and KPI calculations.
 
----
+--
 
 ## 📬 Contact
 
