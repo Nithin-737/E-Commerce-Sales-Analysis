@@ -2,66 +2,52 @@
 
 This project presents a comprehensive analysis of e-commerce sales data, showcasing the full workflow of a data analyst—from raw data exploration to stakeholder-ready dashboards. Using **SQL**, **Excel**, and **Power BI/Tableau**, the analysis uncovers patterns in customer behavior, product performance, and revenue trends to support strategic decision-making.
 
---
 
-## 🎯 Objectives
+## Objectives
 
-- Identify key revenue drivers and seasonal trends  
+- Identify key revenue and seasonal trends  
 - Segment customers based on purchasing behavior  
-- Visualize performance across product categories  
-- Detect churn signals and retention opportunities  
+- Visualize performance across product categories   
 - Demonstrate storytelling through data and dashboard design
 
---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 - **SQL** – Data extraction, transformation, and KPI aggregation  
 - **Excel** – Data cleaning, pivot tables, and metric calculations  
 - **Power BI / Tableau** – Interactive dashboards and visual storytelling  
-- *(Optional)* **Python** – Feature engineering or predictive modeling
 
---
 
-## 🔍 Key Insights
+##  Key Insights
 
 - High-value customers contribute over 60% of total revenue  
-- Electronics and apparel show strong seasonal spikes  
+- Electronics and Furniture show strong seasonal spikes by 35% 
 - Repeat purchase rate drops significantly after 90 days  
-- Top 3 product categories drive 75
-- % of overall sales  
+- Top 3 product categories drive 75% of overall sales  
 - Churn signals identified through recency and frequency metrics
 
---
 
-## 📊 Dashboards & Visuals
+##  Dashboards & Visuals
 
 > Screenshots and interactive dashboards available in the `/PowerBI_dashboard` folder.  
-> Visuals include KPI cards, time-series trends, customer segmentation charts, and category performance breakdowns.
-
---
-
-## 📁 Repository Structure
-
-/SQL_queries
-/Excel_workbook
-/PowerBI_dashboard
-/Insights_summary.md
+> Visuals include KPI cards, time-series trends, customer segmentation charts, and category performance breakdown
 
 
---
+##  Files Included
 
-## 🚀 How to Use
+- PowerPoint Presentation : A presentation summarizing key findings and recommendations for stakeholders.
+- Visual Assets : Images of key charts used in the analysis.
 
-1. Open the Power BI file to explore dashboards across revenue, customer segments, and churn analysis.  
-2. Review SQL queries for data extraction and transformation logic.  
-3. Use Excel workbook for pivot analysis and KPI calculations.
+##  Repository Structure
 
---
+> /SQL_queries
+> /Excel_workbook
+> /PowerBI_dashboard
+> /Insights_summary.md
 
-## 📬 Contact
+
+##  Contact
 
 Created by Nithin C | [LinkedIn](https://www.linkedin.com/in/nithin737)  
 Aspiring Data Analyst | Passionate about storytelling through data and driving business impact.
 
---
