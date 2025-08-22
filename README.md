@@ -61,7 +61,7 @@ This project presents a comprehensive analysis of e-commerce sales data, showcas
 
 ## 📬 Contact
 
-Created by [Nithin C](https://www.linkedin.com/in/nithin737)  
+Created by Nithin C | [LinkedIn](https://www.linkedin.com/in/nithin737)  
 Aspiring Data Analyst | Passionate about storytelling through data and driving business impact.
 
--
+--
