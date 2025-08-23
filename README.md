@@ -29,8 +29,8 @@ This project presents a comprehensive analysis of e-commerce sales data, showcas
 
 ##  Dashboards & Visuals
 
-> Screenshots and interactive dashboards available in the `/PowerBI_dashboard` folder.  
-> Visuals include KPI cards, time-series trends, customer segmentation charts, and category performance breakdown
+> ![Uploading Screenshot 2025-08-23 185346.png…]()
+
 
 
 ##  Files Included
