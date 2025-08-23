@@ -30,8 +30,9 @@ This project presents a comprehensive analysis of e-commerce sales data, showcas
 ##  Dashboards & Visuals
 
   <img width="1919" height="1013" alt="Screenshot 2025-08-23 185346" src="https://github.com/user-attachments/assets/49fb909d-4ae2-4715-acab-3c1d4f20b1af" />
-
-
+  <img width="1115" height="757" alt="Screenshot 2025-08-23 185657" src="https://github.com/user-attachments/assets/f1a1981b-6d35-4658-b464-2e476027b2d4" />
+  <img width="1919" height="1007" alt="Screenshot 2025-08-23 185154" src="https://github.com/user-attachments/assets/b756bd99-d999-47b1-a216-fd41c7afb04d" />
+  <img width="1523" height="852" alt="Screenshot 2025-08-23 184420" src="https://github.com/user-attachments/assets/4db317d4-1faa-4a42-afcd-f67b6ee04bfe" />
 
 ##  Files Included
 
